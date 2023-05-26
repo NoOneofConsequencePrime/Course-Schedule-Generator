@@ -115,7 +115,7 @@ public class Main{
 	
 	static void genPerms(int courseIdx) {
 		if (courseIdx == courseList.length) {
-			outputFile.print(getScheduleID());
+			outputFile.print("ID: "+getScheduleID());
 			HashMap<Integer, String> convDayIntStr = userSchedule.getConvDayIntStr();
 			for (int i = 0; i < convDayIntStr.size(); i++) outputFile.print(","+convDayIntStr.get(i));
 			outputFile.print(",,Course,Instructor");
