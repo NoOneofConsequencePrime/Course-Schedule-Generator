@@ -2,7 +2,7 @@
  * Project Name: NYU Class Schedule Generator
  * Made by: Bryan Zhao
  * Date: May 25th 2023
- * Version: V1.0.0
+ * Version: v1.0.1
  */
 
 import java.util.*;
@@ -15,7 +15,7 @@ public class Main{
 	
 	// Variables & Objects
 	static Schedule userSchedule;
-	static String[] courseNameLookup;
+	static HashMap<Integer, String> courseLookup = new HashMap<>();// courseCode -> courseName
 	static ArrayList<Course>[] courseList;
 	static Course[] userCourseList;
 	public static void main(String[] args) throws IOException {
@@ -33,13 +33,6 @@ public class Main{
 		println("---Setup Complete (2/2)---");
 		
 		genPerms(0);
-		
-//		for (int i = 0; i < courseList.length; i++) {
-//			println("\n"+courseNameLookup[i]);
-//			for (int j = 0; j < courseList[i].size(); j++) {
-//				println(courseList[i].get(j));
-//			}
-//		}
 		
 		setupFile.close();
 		scheduleFile.close();
@@ -70,11 +63,9 @@ public class Main{
 			
 			// init custom named course list
 			int courseCnt = Integer.parseInt(setupFile.readLine());
-			courseNameLookup = new String[courseCnt];
 			courseList = new ArrayList[courseCnt];
 			userCourseList = new Course[courseCnt];
 			for (int i = 0; i < courseCnt; i++) {
-				courseNameLookup[i] = setupFile.readLine();
 				courseList[i] = new ArrayList<>();
 			}
 		} catch (Exception e) {
@@ -96,6 +87,7 @@ public class Main{
 					String instructorName = st.nextToken();
 					
 					Course tmpCourse = new Course(courseCode, courseName, instructorName);
+					courseLookup.put(courseCode, courseName);
 					
 					st = new StringTokenizer(scheduleFile.readLine(), " ");
 					String startTimeStr = st.nextToken(), endTimeStr = st.nextToken();
@@ -129,11 +121,14 @@ public class Main{
 				for (int j = 0; j < schedule.length; j++) {// session days
 					int courseCode = schedule[j].get(i);
 					outputFile.print(",");
-					if (courseCode != -1) outputFile.print(courseCode);
+					if (courseCode != -1) outputFile.print(courseCode+" ("+courseLookup.get(courseCode)+")");
 				}
 				outputFile.println("");
 			}
 			outputFile.println("");
+			
+			
+			
 			println("-----");
 			for (Course curCourse : userCourseList) {
 				println(curCourse);
