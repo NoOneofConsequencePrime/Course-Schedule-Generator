@@ -2,7 +2,7 @@
  * Project Name: NYU Class Schedule Generator
  * Made by: Bryan Zhao
  * Date: May 25th 2023
- * Version: v1.0.2
+ * Version: v1.0.3
  */
 
 import java.util.*;
@@ -81,7 +81,6 @@ public class Main{
 				int courseCnt = Integer.parseInt(st.nextToken());
 				
 				for (int i = 0; i < courseCnt; i++) {// 1 2 3
-					
 					st = new StringTokenizer(scheduleFile.readLine(), " ");
 					int courseCode = Integer.parseInt(st.nextToken());
 					String instructorName = st.nextToken();
@@ -115,6 +114,7 @@ public class Main{
 			
 			ArrayList<Session>[] scheduleLayout = userSchedule.getScheduleLayout();
 			ArrayList<Integer>[] schedule = userSchedule.getSchedule();
+			int courseDisplayIdx = 0;
 			for (int i = 0; i < scheduleLayout[0].size(); i++) {// session times
 				Session curSess = scheduleLayout[0].get(i);
 				outputFile.print(Time.toText(curSess.getStartTime())+" - "+Time.toText(curSess.getEndTime()));
@@ -123,13 +123,15 @@ public class Main{
 					outputFile.print(",");
 					if (courseCode != -1) outputFile.print(courseCode+" ("+courseLookup.get(courseCode).getCourseName()+")");
 				}
+				if (courseDisplayIdx < userCourseList.length) {
+					Course curCourse = userCourseList[courseDisplayIdx];
+					outputFile.print(",,");
+					outputFile.print(curCourse.getCourseCode()+","+curCourse.getCourseName()+","+curCourse.getInstructorName());
+					courseDisplayIdx++;
+				}
 				outputFile.println("");
 			}
-			outputFile.println("");
 			
-			for (Course curCourse : userCourseList) {
-				outputFile.println(curCourse.getCourseCode()+","+curCourse.getCourseName()+","+curCourse.getInstructorName());
-			}
 			outputFile.println("\n\n");
 			
 			println("-----");
