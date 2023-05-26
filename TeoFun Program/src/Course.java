@@ -22,6 +22,12 @@ public class Course {
 	public int getCourseCode() {
 		return courseCode;
 	}
+	public String getCourseName() {
+		return courseName;
+	}
+	public String getInstructorName() {
+		return instructorName;
+	}
 	
 	public String toString() {
 		if (sessionList.size() == 0) return "Empty sessionList";
