@@ -2,7 +2,7 @@
  * Project Name: NYU Class Schedule Generator
  * Made by: Bryan Zhao
  * Date: May 25th 2023
- * Version: v1.0.3
+ * Version: v1.0.4
  */
 
 import java.util.*;
@@ -110,6 +110,7 @@ public class Main{
 		if (courseIdx == courseList.length) {
 			HashMap<Integer, String> convDayIntStr = userSchedule.getConvDayIntStr();
 			for (int i = 0; i < convDayIntStr.size(); i++) outputFile.print(","+convDayIntStr.get(i));
+			outputFile.print(",,Course,Instructor");
 			outputFile.println("");
 			
 			ArrayList<Session>[] scheduleLayout = userSchedule.getScheduleLayout();
@@ -126,7 +127,7 @@ public class Main{
 				if (courseDisplayIdx < userCourseList.length) {
 					Course curCourse = userCourseList[courseDisplayIdx];
 					outputFile.print(",,");
-					outputFile.print(curCourse.getCourseCode()+","+curCourse.getCourseName()+","+curCourse.getInstructorName());
+					outputFile.print(curCourse.getCourseName()+" ("+curCourse.getCourseCode()+"),"+curCourse.getInstructorName());
 					courseDisplayIdx++;
 				}
 				outputFile.println("");
