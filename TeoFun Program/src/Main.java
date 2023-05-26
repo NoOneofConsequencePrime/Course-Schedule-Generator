@@ -2,7 +2,7 @@
  * Project Name: NYU Class Schedule Generator
  * Made by: Bryan Zhao
  * Date: May 25th 2023
- * Version: v1.0.4
+ * Version: v1.0.5
  */
 
 import java.util.*;
@@ -13,11 +13,17 @@ public class Main{
 	static BufferedReader setupFile, scheduleFile;
 	static PrintWriter outputFile;
 	
+	// Settings
+	static final long MOD = (long)878953;
+	static final int[] modBase = {2, 3, 5, 7, 11, 13, 17, 19, 23, 29};
+	
 	// Variables & Objects
 	static Schedule userSchedule;
 	static HashMap<Integer, Course> courseLookup = new HashMap<>();// courseCode -> courseName
 	static ArrayList<Course>[] courseList;
 	static Course[] userCourseList;
+	static int possibilityCnt = 0;
+	
 	public static void main(String[] args) throws IOException {
 		try {
 			setupFile = new BufferedReader(new FileReader("ava_setup.txt"));
@@ -33,6 +39,7 @@ public class Main{
 		println("---Setup Complete (2/2)---");
 		
 		genPerms(0);
+		outputFile.print("Possibilities generated: "+possibilityCnt);
 		
 		setupFile.close();
 		scheduleFile.close();
@@ -108,6 +115,7 @@ public class Main{
 	
 	static void genPerms(int courseIdx) {
 		if (courseIdx == courseList.length) {
+			outputFile.print(getScheduleID());
 			HashMap<Integer, String> convDayIntStr = userSchedule.getConvDayIntStr();
 			for (int i = 0; i < convDayIntStr.size(); i++) outputFile.print(","+convDayIntStr.get(i));
 			outputFile.print(",,Course,Instructor");
@@ -122,7 +130,8 @@ public class Main{
 				for (int j = 0; j < schedule.length; j++) {// session days
 					int courseCode = schedule[j].get(i);
 					outputFile.print(",");
-					if (courseCode != -1) outputFile.print(courseCode+" ("+courseLookup.get(courseCode).getCourseName()+")");
+//					if (courseCode != -1) outputFile.print(courseCode+" ("+courseLookup.get(courseCode).getCourseName()+")");
+					if (courseCode != -1) outputFile.print(courseCode);
 				}
 				if (courseDisplayIdx < userCourseList.length) {
 					Course curCourse = userCourseList[courseDisplayIdx];
@@ -139,6 +148,8 @@ public class Main{
 			for (Course curCourse : userCourseList) {
 				println(curCourse);
 			}
+			
+			possibilityCnt++;
 			return;
 		}
 		
@@ -156,6 +167,25 @@ public class Main{
 			userSchedule.setCourseState(curCourse, false);
 			userCourseList[courseIdx] = null;
 		}
+	}
+	
+	static long getScheduleID() {
+		long ret = 0;
+		for (int i = 0; i < userCourseList.length; i++) {
+			Course curCourse = userCourseList[i];
+			ret += modPow(modBase[i], curCourse.getCourseCode(), MOD);
+		}
+		
+		return ret;
+	}
+	static long modPow(long b, long e, long m) {
+		long ret = 1;
+		while (e > 0) {
+			if ((e&1) == 1) ret = (ret*b)%m;
+			e >>= 1;
+			b = (b*b)%m;
+		}
+		return ret;
 	}
 	
 	static void notifyException(String str) {

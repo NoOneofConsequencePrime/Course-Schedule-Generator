@@ -12,8 +12,6 @@ Fri
 14:00 15:15
 15:30 16:45
 16:55 18:10
-4
-A
-B
-C
-D
+2
+Commerce_and_culture
+STAT_UB_103

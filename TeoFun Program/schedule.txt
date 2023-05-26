@@ -1,52 +1,54 @@
-A 3
-10668 James
-14:00 15:15
-2
-Tue Fri
-10670 Nancy
-14:00 15:15
-2
-Mon Wed
-11004 King
-15:30 16:45
-2
-Mon Wed
-B 2
-11031 Andrew
-15:30 16:45
-2
-Tue Thu
-10748 Andrew
-11:00 12:15
-2
-Tue Thu
-C 5
-10862 Patrick
-9:30 10:45
-2
-Tue Fri
-10676 Jason
+Commerce_and_culture 8
+18826 Menna
 9:30 10:45
 2
 Mon Wed
-10677 Jason
-14:00 15:15
-2
-Mon Wed
-10861 Jason
-15:30 16:45
-2
-Mon Wed
-11065 Jason
-15:30 16:45
-2
-Mon Wed
-D 2
-20860 Henry
-9:30 10:45
-2
-Tue Thu
-9915 Jack
+18827 Menna
 11:00 12:15
 2
 Mon Wed
+18829 Newell
+9:30 10:45
+2
+Mon Wed
+18839 Newell
+11:00 12:15
+2
+Mon Wed
+18840 Schenkler
+14:00 15:15
+2
+Mon Wed
+18851 Pluta
+14:00 15:15
+2
+Mon Wed
+23539 Pluta
+11:00 12:15
+2
+Mon Wed
+23538 Berthe
+15:30 16:45
+2
+Tue Thu
+STAT_UB_103 5
+19464 Giloni
+8:00 9:15
+3
+Mon Tue Thu
+19465 Turetsky
+8:00 9:15 
+3
+Mon Wed Thu
+19466 Shahmaei
+9:30 10:45
+3
+Mon Wed Fri
+19470 Shahmaei
+14:00 15:15 
+3
+Mon Wed Fri
+19471 Wu
+15:30 16:45
+3
+Tue Thu Fri
