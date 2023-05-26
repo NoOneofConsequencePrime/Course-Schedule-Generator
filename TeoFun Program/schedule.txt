@@ -1,0 +1,52 @@
+A 3
+10668 James
+2
+Tue Thu
+14:00 15:15
+10670 Nancy
+2
+Mon Wed
+14:00 15:15
+11004 King
+2
+Mon Wed
+15:30 16:45
+B 2
+11031 Andrew
+2
+Tue Thu
+15:30 16:45
+10748 Andrew
+2
+Tue Thu
+11:00 12:15
+C 5
+10862 Patrick
+2
+Tue Thu
+9:30 10:45
+10676 Jason
+2
+Mon Wed
+9:30 10:45
+10677 Jason
+2
+Mon Wed
+14:00 15:15
+10861 Jason
+2
+Mon Wed
+15:30 16:45
+11065 Jason
+2
+Mon Wed
+14:30 15:45
+D 2
+20860 Henry
+2
+Tue Thu
+9:30 10:45
+9915 Jack
+2
+Mon Wed
+11:00 12:15
