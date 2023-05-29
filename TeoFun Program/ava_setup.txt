@@ -1,3 +1,4 @@
+4
 5
 Mon
 Tue
@@ -12,6 +13,28 @@ Fri
 14:00 15:15
 15:30 16:45
 16:55 18:10
-2
-Commerce_and_culture
-STAT_UB_103
+12
+Menna_Larry
+4.6
+Newell_Carol
+4.4
+Schenkler_Irv
+4.6
+Pluta_Ellen
+5.0
+Berthe_Jamie
+4.1
+Giloni_Avi
+4.8
+Turetsky_Jason
+-1
+Shahmaei_Ardeshir
+4.4
+Wu_Rongning
+4.0
+Denti_Tommaso
+3.5
+Valenti_Peter
+4.6
+El-Ghobashy_Mona
+3.5

@@ -2,11 +2,12 @@
  * Project Name: NYU Class Schedule Generator
  * Made by: Bryan Zhao
  * Date: May 25th 2023
- * Version: v1.0.5
+ * Version: v1.1.0
  */
 
 import java.util.*;
 import java.io.*;
+import java.text.*;
 
 public class Main{
 	// Files
@@ -21,8 +22,10 @@ public class Main{
 	static Schedule userSchedule;
 	static HashMap<Integer, Course> courseLookup = new HashMap<>();// courseCode -> courseName
 	static ArrayList<Course>[] courseList;
-	static Course[] userCourseList;
-	static int possibilityCnt = 0;
+	static HashMap<String, Double> instructorRating = new HashMap<>();
+	static ArrayList<OutputFormat> ansList = new ArrayList<>();
+	
+	static NumberFormat nf;
 	
 	public static void main(String[] args) throws IOException {
 		try {
@@ -33,24 +36,38 @@ public class Main{
 			notifyException("main - file lookup");
 		}
 		
+		initProgram();
 		initSetup();
 		println("---Setup Complete (1/2)---");
 		initSchedule();
 		println("---Setup Complete (2/2)---");
 		
 		genPerms(0);
-		outputFile.print("Possibilities generated: "+possibilityCnt);
+		postProcess();
+		printAns();
 		
 		setupFile.close();
 		scheduleFile.close();
 		outputFile.close();
 	}
 	
+	static void initProgram() {
+		nf = NumberFormat.getNumberInstance();
+		nf.setMaximumFractionDigits(3);
+	}
+	
 	static void initSetup() {
 		try {
+			// init custom named course list
+			int courseCnt = Integer.parseInt(setupFile.readLine());
+			courseList = new ArrayList[courseCnt];
+			for (int i = 0; i < courseCnt; i++) {
+				courseList[i] = new ArrayList<>();
+			}
+			
 			// init custom named days of the week
 			int daysOfWeek = Integer.parseInt(setupFile.readLine());
-			userSchedule = new Schedule(daysOfWeek);
+			userSchedule = new Schedule(daysOfWeek, courseCnt, MOD, modBase);
 			for (int i = 0; i < daysOfWeek; i++) {
 				userSchedule.setDayOfWeek(i, setupFile.readLine());
 			}
@@ -68,12 +85,12 @@ public class Main{
 				}
 			}
 			
-			// init custom named course list
-			int courseCnt = Integer.parseInt(setupFile.readLine());
-			courseList = new ArrayList[courseCnt];
-			userCourseList = new Course[courseCnt];
-			for (int i = 0; i < courseCnt; i++) {
-				courseList[i] = new ArrayList<>();
+			// init instructorRating
+			int instructorCnt = Integer.parseInt(setupFile.readLine());
+			for (int i = 0; i < instructorCnt; i++) {
+				String instructorName = setupFile.readLine();
+				double instructorScore = Double.parseDouble(setupFile.readLine());
+				instructorRating.put(instructorName, instructorScore);
 			}
 		} catch (Exception e) {
 			notifyException("initSetup()");
@@ -92,8 +109,8 @@ public class Main{
 					int courseCode = Integer.parseInt(st.nextToken());
 					String instructorName = st.nextToken();
 					
-					Course tmpCourse = new Course(courseCode, courseName, instructorName);
-					
+					Course tmpCourse = new Course(courseCode, courseName, instructorName, instructorRating.get(instructorName));
+
 					st = new StringTokenizer(scheduleFile.readLine(), " ");
 					String startTimeStr = st.nextToken(), endTimeStr = st.nextToken();
 					
@@ -114,78 +131,79 @@ public class Main{
 	}
 	
 	static void genPerms(int courseIdx) {
-		if (courseIdx == courseList.length) {
-			outputFile.print("ID: "+getScheduleID());
-			HashMap<Integer, String> convDayIntStr = userSchedule.getConvDayIntStr();
-			for (int i = 0; i < convDayIntStr.size(); i++) outputFile.print(","+convDayIntStr.get(i));
-			outputFile.print(",,Course,Instructor");
-			outputFile.println("");
-			
-			ArrayList<Session>[] scheduleLayout = userSchedule.getScheduleLayout();
-			ArrayList<Integer>[] schedule = userSchedule.getSchedule();
-			int courseDisplayIdx = 0;
-			for (int i = 0; i < scheduleLayout[0].size(); i++) {// session times
-				Session curSess = scheduleLayout[0].get(i);
-				outputFile.print(Time.toText(curSess.getStartTime())+" - "+Time.toText(curSess.getEndTime()));
-				for (int j = 0; j < schedule.length; j++) {// session days
-					int courseCode = schedule[j].get(i);
-					outputFile.print(",");
-//					if (courseCode != -1) outputFile.print(courseCode+" ("+courseLookup.get(courseCode).getCourseName()+")");
-					if (courseCode != -1) outputFile.print(courseCode);
+		try {
+			if (courseIdx == courseList.length) {
+				String tmpText = "";
+				tmpText += "ID: "+userSchedule.getScheduleID();
+				HashMap<Integer, String> convDayIntStr = userSchedule.getConvDayIntStr();
+				for (int i = 0; i < convDayIntStr.size(); i++) tmpText += ","+convDayIntStr.get(i);
+				tmpText += ",,Course,Instructor,"+nf.format(userSchedule.getInstructorRating())+"\n";
+				
+				ArrayList<Session>[] scheduleLayout = userSchedule.getScheduleLayout();
+				ArrayList<Course>[] schedule = userSchedule.getSchedule();
+				int courseDisplayIdx = 0;
+				for (int i = 0; i < scheduleLayout[0].size(); i++) {// session times
+					Session curSess = scheduleLayout[0].get(i);
+					tmpText += Time.toText(curSess.getStartTime())+" - "+Time.toText(curSess.getEndTime());
+					for (int j = 0; j < schedule.length; j++) {// session days
+						Course curCourse = schedule[j].get(i);
+						tmpText += ",";
+//						if (courseCode != -1) outputFile.print(courseCode+" ("+courseLookup.get(courseCode).getCourseName()+")");
+						if (curCourse != null) tmpText += curCourse.getCourseCode();
+					}
+					
+					Course[] courseList = userSchedule.getCourseList();
+					if (courseDisplayIdx < courseList.length) {
+						Course curCourse = courseList[courseDisplayIdx];
+						tmpText += ",,";
+						tmpText += curCourse.getCourseName()+" ("+curCourse.getCourseCode()+"),"+curCourse.getInstructorName();
+						courseDisplayIdx++;
+					}
+					tmpText += "\n";
 				}
-				if (courseDisplayIdx < userCourseList.length) {
-					Course curCourse = userCourseList[courseDisplayIdx];
-					outputFile.print(",,");
-					outputFile.print(curCourse.getCourseName()+" ("+curCourse.getCourseCode()+"),"+curCourse.getInstructorName());
-					courseDisplayIdx++;
-				}
-				outputFile.println("");
+				tmpText += "\n\n";
+				
+				OutputFormat tmpOutput = new OutputFormat(tmpText, userSchedule.getInstructorRating());
+				ansList.add(tmpOutput);
+				
+				println(userSchedule);
+				
+//				println("-----");
+//				for (int i = 0; i < courseList.length; i++) {
+//					println(courseList[i]);
+//				}
+				
+				return;
 			}
-			
-			outputFile.println("\n\n");
-			
-			println("-----");
-			for (Course curCourse : userCourseList) {
-				println(curCourse);
-			}
-			
-			possibilityCnt++;
-			return;
+		} catch (Exception e) {
+			notifyException("genPerms()");
 		}
 		
-		for (Course curCourse : courseList[courseIdx]) {
+		for (int i = 0; i < courseList[courseIdx].size(); i++) {
+			Course curCourse = courseList[courseIdx].get(i);
+			
 			// set cur course as option
-			if (!userSchedule.setCourseState(curCourse, true)) {
+			if (!userSchedule.setCourseState(curCourse, courseIdx, true)) {
 				continue;
 			}
 			
-			// update list + run recur
-			userCourseList[courseIdx] = curCourse;
+			// run recur
 			genPerms(courseIdx+1);
 			
 			// remove cur course as option
-			userSchedule.setCourseState(curCourse, false);
-			userCourseList[courseIdx] = null;
+			userSchedule.setCourseState(curCourse, courseIdx, false);
 		}
 	}
 	
-	static long getScheduleID() {
-		long ret = 0;
-		for (int i = 0; i < userCourseList.length; i++) {
-			Course curCourse = userCourseList[i];
-			ret += modPow(modBase[i], curCourse.getCourseCode(), MOD);
-		}
-		
-		return ret;
+	static void postProcess() {
+		Collections.sort(ansList);
 	}
-	static long modPow(long b, long e, long m) {
-		long ret = 1;
-		while (e > 0) {
-			if ((e&1) == 1) ret = (ret*b)%m;
-			e >>= 1;
-			b = (b*b)%m;
+	
+	static void printAns() {
+		outputFile.println("Possibilities generated: "+ansList.size()+"\n");
+		for (OutputFormat curOutput : ansList) {
+			outputFile.print(curOutput.getOutputText());
 		}
-		return ret;
 	}
 	
 	static void notifyException(String str) {

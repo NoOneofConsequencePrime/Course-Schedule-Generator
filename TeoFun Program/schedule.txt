@@ -1,54 +1,80 @@
-Commerce_and_culture 8
-18826 Menna
+Commerce 8
+18826 Menna_Larry
 9:30 10:45
 2
 Mon Wed
-18827 Menna
+18827 Menna_Larry
 11:00 12:15
 2
 Mon Wed
-18829 Newell
+18829 Newell_Carol
 9:30 10:45
 2
 Mon Wed
-18839 Newell
+18839 Newell_Carol
 11:00 12:15
 2
 Mon Wed
-18840 Schenkler
+18840 Schenkler_Irv
 14:00 15:15
 2
 Mon Wed
-18851 Pluta
+18851 Pluta_Ellen
 14:00 15:15
 2
 Mon Wed
-23539 Pluta
+23539 Pluta_Ellen
 11:00 12:15
 2
 Mon Wed
-23538 Berthe
+23538 Berthe_Jamie
 15:30 16:45
 2
 Tue Thu
-STAT_UB_103 5
-19464 Giloni
+Statistics 5
+19464 Giloni_Avi
 8:00 9:15
 3
 Mon Tue Thu
-19465 Turetsky
+19465 Turetsky_Jason
 8:00 9:15 
 3
 Mon Wed Thu
-19466 Shahmaei
+19466 Shahmaei_Ardeshir
 9:30 10:45
 3
 Mon Wed Fri
-19470 Shahmaei
+19470 Shahmaei_Ardeshir
 14:00 15:15 
 3
 Mon Wed Fri
-19471 Wu
+19471 Wu_Rongning
 15:30 16:45
 3
 Tue Thu Fri
+MicroeconCalc 2
+22425 Denti_Tommaso
+9:30 10:45
+2
+Tue Thu
+22426 Denti_Tommaso
+11:00 12:15
+2
+Tue Thu
+MiddleEasternCultures 4
+11965 Valenti_Peter
+14:00 15:15
+2
+Tue Thu
+11966 Valenti_Peter
+12:30 13:45
+2
+Tue Thu
+12054 El-Ghobashy_Mona
+14:00 15:15
+2
+Mon Wed
+19029 El-Ghobashy_Mona
+11:00 12:15
+2
+Mon Wed

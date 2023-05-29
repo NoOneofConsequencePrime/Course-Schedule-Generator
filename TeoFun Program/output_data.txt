@@ -1,0 +1,2222 @@
+Possibilities generated: 222
+
+ID: 2487598,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.475
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18851),Pluta_Ellen
+9:30 - 10:45,,22425,,22425,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,18851,11965,18851,11965,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2449330,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.475
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18851),Pluta_Ellen
+9:30 - 10:45,,22425,,22425,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,18851,,18851,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1999074,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.475
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18851),Pluta_Ellen
+9:30 - 10:45,,,,,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,18851,11965,18851,11965,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1960806,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.475
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18851),Pluta_Ellen
+9:30 - 10:45,,,,,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,18851,,18851,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2558182,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.475
+8:00 - 9:15,19464,19464,,19464,,,Commerce (23539),Pluta_Ellen
+9:30 - 10:45,,22425,,22425,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,23539,,23539,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2519914,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.475
+8:00 - 9:15,19464,19464,,19464,,,Commerce (23539),Pluta_Ellen
+9:30 - 10:45,,22425,,22425,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,23539,,23539,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2069658,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.475
+8:00 - 9:15,19464,19464,,19464,,,Commerce (23539),Pluta_Ellen
+9:30 - 10:45,,,,,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,23539,22426,23539,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2031390,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.475
+8:00 - 9:15,19464,19464,,19464,,,Commerce (23539),Pluta_Ellen
+9:30 - 10:45,,,,,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,23539,22426,23539,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2570429,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.375
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18826),Menna_Larry
+9:30 - 10:45,18826,22425,18826,22425,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2532161,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.375
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18826),Menna_Larry
+9:30 - 10:45,18826,22425,18826,22425,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2081905,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.375
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18826),Menna_Larry
+9:30 - 10:45,18826,,18826,,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2043637,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.375
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18826),Menna_Larry
+9:30 - 10:45,18826,,18826,,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2690516,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.375
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18827),Menna_Larry
+9:30 - 10:45,,22425,,22425,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,18827,,18827,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2652248,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.375
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18827),Menna_Larry
+9:30 - 10:45,,22425,,22425,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,18827,,18827,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2201992,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.375
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18827),Menna_Larry
+9:30 - 10:45,,,,,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,18827,22426,18827,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2163724,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.375
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18827),Menna_Larry
+9:30 - 10:45,,,,,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,18827,22426,18827,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2858936,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.375
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18840),Schenkler_Irv
+9:30 - 10:45,,22425,,22425,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,18840,11965,18840,11965,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2820668,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.375
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18840),Schenkler_Irv
+9:30 - 10:45,,22425,,22425,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,18840,,18840,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2370412,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.375
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18840),Schenkler_Irv
+9:30 - 10:45,,,,,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,18840,11965,18840,11965,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2332144,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.375
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18840),Schenkler_Irv
+9:30 - 10:45,,,,,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,18840,,18840,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2023534,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.375
+8:00 - 9:15,,,,,,,Commerce (18851),Pluta_Ellen
+9:30 - 10:45,19466,22425,19466,22425,19466,,Statistics (19466),Shahmaei_Ardeshir
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,18851,11965,18851,11965,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1985266,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.375
+8:00 - 9:15,,,,,,,Commerce (18851),Pluta_Ellen
+9:30 - 10:45,19466,22425,19466,22425,19466,,Statistics (19466),Shahmaei_Ardeshir
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,18851,,18851,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1535010,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.375
+8:00 - 9:15,,,,,,,Commerce (18851),Pluta_Ellen
+9:30 - 10:45,19466,,19466,,19466,,Statistics (19466),Shahmaei_Ardeshir
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,18851,11965,18851,11965,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1496742,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.375
+8:00 - 9:15,,,,,,,Commerce (18851),Pluta_Ellen
+9:30 - 10:45,19466,,19466,,19466,,Statistics (19466),Shahmaei_Ardeshir
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,18851,,18851,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2094118,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.375
+8:00 - 9:15,,,,,,,Commerce (23539),Pluta_Ellen
+9:30 - 10:45,19466,22425,19466,22425,19466,,Statistics (19466),Shahmaei_Ardeshir
+11:00 - 12:15,23539,,23539,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2055850,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.375
+8:00 - 9:15,,,,,,,Commerce (23539),Pluta_Ellen
+9:30 - 10:45,19466,22425,19466,22425,19466,,Statistics (19466),Shahmaei_Ardeshir
+11:00 - 12:15,23539,,23539,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1605594,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.375
+8:00 - 9:15,,,,,,,Commerce (23539),Pluta_Ellen
+9:30 - 10:45,19466,,19466,,19466,,Statistics (19466),Shahmaei_Ardeshir
+11:00 - 12:15,23539,22426,23539,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1567326,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.375
+8:00 - 9:15,,,,,,,Commerce (23539),Pluta_Ellen
+9:30 - 10:45,19466,,19466,,19466,,Statistics (19466),Shahmaei_Ardeshir
+11:00 - 12:15,23539,22426,23539,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2518102,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.375
+8:00 - 9:15,,,,,,,Commerce (23539),Pluta_Ellen
+9:30 - 10:45,,22425,,22425,,,Statistics (19470),Shahmaei_Ardeshir
+11:00 - 12:15,23539,,23539,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,19470,11965,19470,11965,19470
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2479834,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.375
+8:00 - 9:15,,,,,,,Commerce (23539),Pluta_Ellen
+9:30 - 10:45,,22425,,22425,,,Statistics (19470),Shahmaei_Ardeshir
+11:00 - 12:15,23539,,23539,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,19470,,19470,,19470
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2029578,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.375
+8:00 - 9:15,,,,,,,Commerce (23539),Pluta_Ellen
+9:30 - 10:45,,,,,,,Statistics (19470),Shahmaei_Ardeshir
+11:00 - 12:15,23539,22426,23539,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,19470,11965,19470,11965,19470
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1991310,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.375
+8:00 - 9:15,,,,,,,Commerce (23539),Pluta_Ellen
+9:30 - 10:45,,,,,,,Statistics (19470),Shahmaei_Ardeshir
+11:00 - 12:15,23539,22426,23539,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,19470,,19470,,19470
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2371582,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.367
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18851),Pluta_Ellen
+9:30 - 10:45,,22425,,22425,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,18851,11965,18851,11965,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2333314,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.367
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18851),Pluta_Ellen
+9:30 - 10:45,,22425,,22425,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,18851,,18851,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1883058,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.367
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18851),Pluta_Ellen
+9:30 - 10:45,,,,,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,18851,11965,18851,11965,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1844790,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.367
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18851),Pluta_Ellen
+9:30 - 10:45,,,,,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,18851,,18851,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2442166,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.367
+8:00 - 9:15,19465,,19465,19465,,,Commerce (23539),Pluta_Ellen
+9:30 - 10:45,,22425,,22425,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,23539,,23539,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2403898,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.367
+8:00 - 9:15,19465,,19465,19465,,,Commerce (23539),Pluta_Ellen
+9:30 - 10:45,,22425,,22425,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,23539,,23539,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1953642,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.367
+8:00 - 9:15,19465,,19465,19465,,,Commerce (23539),Pluta_Ellen
+9:30 - 10:45,,,,,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,23539,22426,23539,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1915374,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.367
+8:00 - 9:15,19465,,19465,19465,,,Commerce (23539),Pluta_Ellen
+9:30 - 10:45,,,,,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,23539,22426,23539,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2532085,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.325
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18829),Newell_Carol
+9:30 - 10:45,18829,22425,18829,22425,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2493817,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.325
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18829),Newell_Carol
+9:30 - 10:45,18829,22425,18829,22425,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2043561,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.325
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18829),Newell_Carol
+9:30 - 10:45,18829,,18829,,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2005293,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.325
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18829),Newell_Carol
+9:30 - 10:45,18829,,18829,,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2654639,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.325
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18839),Newell_Carol
+9:30 - 10:45,,22425,,22425,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,18839,,18839,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2616371,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.325
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18839),Newell_Carol
+9:30 - 10:45,,22425,,22425,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,18839,,18839,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2166115,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.325
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18839),Newell_Carol
+9:30 - 10:45,,,,,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,18839,22426,18839,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2127847,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.325
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18839),Newell_Carol
+9:30 - 10:45,,,,,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,18839,22426,18839,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2530349,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.275
+8:00 - 9:15,,,,,,,Commerce (18826),Menna_Larry
+9:30 - 10:45,18826,22425,18826,22425,,,Statistics (19470),Shahmaei_Ardeshir
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,19470,11965,19470,11965,19470
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2492081,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.275
+8:00 - 9:15,,,,,,,Commerce (18826),Menna_Larry
+9:30 - 10:45,18826,22425,18826,22425,,,Statistics (19470),Shahmaei_Ardeshir
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,19470,,19470,,19470
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2041825,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.275
+8:00 - 9:15,,,,,,,Commerce (18826),Menna_Larry
+9:30 - 10:45,18826,,18826,,,,Statistics (19470),Shahmaei_Ardeshir
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,19470,11965,19470,11965,19470
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2003557,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.275
+8:00 - 9:15,,,,,,,Commerce (18826),Menna_Larry
+9:30 - 10:45,18826,,18826,,,,Statistics (19470),Shahmaei_Ardeshir
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,19470,,19470,,19470
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2226452,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.275
+8:00 - 9:15,,,,,,,Commerce (18827),Menna_Larry
+9:30 - 10:45,19466,22425,19466,22425,19466,,Statistics (19466),Shahmaei_Ardeshir
+11:00 - 12:15,18827,,18827,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2188184,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.275
+8:00 - 9:15,,,,,,,Commerce (18827),Menna_Larry
+9:30 - 10:45,19466,22425,19466,22425,19466,,Statistics (19466),Shahmaei_Ardeshir
+11:00 - 12:15,18827,,18827,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1737928,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.275
+8:00 - 9:15,,,,,,,Commerce (18827),Menna_Larry
+9:30 - 10:45,19466,,19466,,19466,,Statistics (19466),Shahmaei_Ardeshir
+11:00 - 12:15,18827,22426,18827,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1699660,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.275
+8:00 - 9:15,,,,,,,Commerce (18827),Menna_Larry
+9:30 - 10:45,19466,,19466,,19466,,Statistics (19466),Shahmaei_Ardeshir
+11:00 - 12:15,18827,22426,18827,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2650436,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.275
+8:00 - 9:15,,,,,,,Commerce (18827),Menna_Larry
+9:30 - 10:45,,22425,,22425,,,Statistics (19470),Shahmaei_Ardeshir
+11:00 - 12:15,18827,,18827,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,19470,11965,19470,11965,19470
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2612168,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.275
+8:00 - 9:15,,,,,,,Commerce (18827),Menna_Larry
+9:30 - 10:45,,22425,,22425,,,Statistics (19470),Shahmaei_Ardeshir
+11:00 - 12:15,18827,,18827,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,19470,,19470,,19470
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2161912,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.275
+8:00 - 9:15,,,,,,,Commerce (18827),Menna_Larry
+9:30 - 10:45,,,,,,,Statistics (19470),Shahmaei_Ardeshir
+11:00 - 12:15,18827,22426,18827,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,19470,11965,19470,11965,19470
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2123644,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.275
+8:00 - 9:15,,,,,,,Commerce (18827),Menna_Larry
+9:30 - 10:45,,,,,,,Statistics (19470),Shahmaei_Ardeshir
+11:00 - 12:15,18827,22426,18827,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,19470,,19470,,19470
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2394872,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.275
+8:00 - 9:15,,,,,,,Commerce (18840),Schenkler_Irv
+9:30 - 10:45,19466,22425,19466,22425,19466,,Statistics (19466),Shahmaei_Ardeshir
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,18840,11965,18840,11965,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2356604,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.275
+8:00 - 9:15,,,,,,,Commerce (18840),Schenkler_Irv
+9:30 - 10:45,19466,22425,19466,22425,19466,,Statistics (19466),Shahmaei_Ardeshir
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,18840,,18840,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1906348,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.275
+8:00 - 9:15,,,,,,,Commerce (18840),Schenkler_Irv
+9:30 - 10:45,19466,,19466,,19466,,Statistics (19466),Shahmaei_Ardeshir
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,18840,11965,18840,11965,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1868080,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.275
+8:00 - 9:15,,,,,,,Commerce (18840),Schenkler_Irv
+9:30 - 10:45,19466,,19466,,19466,,Statistics (19466),Shahmaei_Ardeshir
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,18840,,18840,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2251342,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.275
+8:00 - 9:15,,,,,,,Commerce (18851),Pluta_Ellen
+9:30 - 10:45,,22425,,22425,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,18851,11965,18851,11965,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 2213074,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.275
+8:00 - 9:15,,,,,,,Commerce (18851),Pluta_Ellen
+9:30 - 10:45,,22425,,22425,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,18851,,18851,,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 1762818,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.275
+8:00 - 9:15,,,,,,,Commerce (18851),Pluta_Ellen
+9:30 - 10:45,,,,,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,18851,11965,18851,11965,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 1724550,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.275
+8:00 - 9:15,,,,,,,Commerce (18851),Pluta_Ellen
+9:30 - 10:45,,,,,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,18851,,18851,,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 2321926,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.275
+8:00 - 9:15,,,,,,,Commerce (23539),Pluta_Ellen
+9:30 - 10:45,,22425,,22425,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,23539,,23539,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 2283658,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.275
+8:00 - 9:15,,,,,,,Commerce (23539),Pluta_Ellen
+9:30 - 10:45,,22425,,22425,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,23539,,23539,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 1833402,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.275
+8:00 - 9:15,,,,,,,Commerce (23539),Pluta_Ellen
+9:30 - 10:45,,,,,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,23539,22426,23539,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 1795134,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.275
+8:00 - 9:15,,,,,,,Commerce (23539),Pluta_Ellen
+9:30 - 10:45,,,,,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,23539,22426,23539,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 2504262,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.25
+8:00 - 9:15,19464,19464,,19464,,,Commerce (23538),Berthe_Jamie
+9:30 - 10:45,,22425,,22425,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,23538,,23538,
+16:55 - 18:10,,,,,
+
+
+ID: 2465994,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.25
+8:00 - 9:15,19464,19464,,19464,,,Commerce (23538),Berthe_Jamie
+9:30 - 10:45,,22425,,22425,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,23538,,23538,
+16:55 - 18:10,,,,,
+
+
+ID: 2015738,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.25
+8:00 - 9:15,19464,19464,,19464,,,Commerce (23538),Berthe_Jamie
+9:30 - 10:45,,,,,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,23538,,23538,
+16:55 - 18:10,,,,,
+
+
+ID: 1977470,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.25
+8:00 - 9:15,19464,19464,,19464,,,Commerce (23538),Berthe_Jamie
+9:30 - 10:45,,,,,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,23538,,23538,
+16:55 - 18:10,,,,,
+
+
+ID: 2454413,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.233
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18826),Menna_Larry
+9:30 - 10:45,18826,22425,18826,22425,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2416145,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.233
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18826),Menna_Larry
+9:30 - 10:45,18826,22425,18826,22425,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1965889,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.233
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18826),Menna_Larry
+9:30 - 10:45,18826,,18826,,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1927621,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.233
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18826),Menna_Larry
+9:30 - 10:45,18826,,18826,,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2574500,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.233
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18827),Menna_Larry
+9:30 - 10:45,,22425,,22425,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,18827,,18827,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2536232,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.233
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18827),Menna_Larry
+9:30 - 10:45,,22425,,22425,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,18827,,18827,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2085976,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.233
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18827),Menna_Larry
+9:30 - 10:45,,,,,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,18827,22426,18827,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2047708,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.233
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18827),Menna_Larry
+9:30 - 10:45,,,,,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,18827,22426,18827,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2742920,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.233
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18840),Schenkler_Irv
+9:30 - 10:45,,22425,,22425,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,18840,11965,18840,11965,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2704652,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.233
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18840),Schenkler_Irv
+9:30 - 10:45,,22425,,22425,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,18840,,18840,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2254396,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.233
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18840),Schenkler_Irv
+9:30 - 10:45,,,,,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,18840,11965,18840,11965,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2216128,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.233
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18840),Schenkler_Irv
+9:30 - 10:45,,,,,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,18840,,18840,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2492005,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.225
+8:00 - 9:15,,,,,,,Commerce (18829),Newell_Carol
+9:30 - 10:45,18829,22425,18829,22425,,,Statistics (19470),Shahmaei_Ardeshir
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,19470,11965,19470,11965,19470
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2453737,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.225
+8:00 - 9:15,,,,,,,Commerce (18829),Newell_Carol
+9:30 - 10:45,18829,22425,18829,22425,,,Statistics (19470),Shahmaei_Ardeshir
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,19470,,19470,,19470
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2003481,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.225
+8:00 - 9:15,,,,,,,Commerce (18829),Newell_Carol
+9:30 - 10:45,18829,,18829,,,,Statistics (19470),Shahmaei_Ardeshir
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,19470,11965,19470,11965,19470
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1965213,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.225
+8:00 - 9:15,,,,,,,Commerce (18829),Newell_Carol
+9:30 - 10:45,18829,,18829,,,,Statistics (19470),Shahmaei_Ardeshir
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,19470,,19470,,19470
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2190575,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.225
+8:00 - 9:15,,,,,,,Commerce (18839),Newell_Carol
+9:30 - 10:45,19466,22425,19466,22425,19466,,Statistics (19466),Shahmaei_Ardeshir
+11:00 - 12:15,18839,,18839,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2152307,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.225
+8:00 - 9:15,,,,,,,Commerce (18839),Newell_Carol
+9:30 - 10:45,19466,22425,19466,22425,19466,,Statistics (19466),Shahmaei_Ardeshir
+11:00 - 12:15,18839,,18839,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1702051,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.225
+8:00 - 9:15,,,,,,,Commerce (18839),Newell_Carol
+9:30 - 10:45,19466,,19466,,19466,,Statistics (19466),Shahmaei_Ardeshir
+11:00 - 12:15,18839,22426,18839,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1663783,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.225
+8:00 - 9:15,,,,,,,Commerce (18839),Newell_Carol
+9:30 - 10:45,19466,,19466,,19466,,Statistics (19466),Shahmaei_Ardeshir
+11:00 - 12:15,18839,22426,18839,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2614559,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.225
+8:00 - 9:15,,,,,,,Commerce (18839),Newell_Carol
+9:30 - 10:45,,22425,,22425,,,Statistics (19470),Shahmaei_Ardeshir
+11:00 - 12:15,18839,,18839,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,19470,11965,19470,11965,19470
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2576291,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.225
+8:00 - 9:15,,,,,,,Commerce (18839),Newell_Carol
+9:30 - 10:45,,22425,,22425,,,Statistics (19470),Shahmaei_Ardeshir
+11:00 - 12:15,18839,,18839,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,19470,,19470,,19470
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2126035,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.225
+8:00 - 9:15,,,,,,,Commerce (18839),Newell_Carol
+9:30 - 10:45,,,,,,,Statistics (19470),Shahmaei_Ardeshir
+11:00 - 12:15,18839,22426,18839,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,19470,11965,19470,11965,19470
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2087767,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.225
+8:00 - 9:15,,,,,,,Commerce (18839),Newell_Carol
+9:30 - 10:45,,,,,,,Statistics (19470),Shahmaei_Ardeshir
+11:00 - 12:15,18839,22426,18839,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,19470,,19470,,19470
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1951324,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.2
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18851),Pluta_Ellen
+9:30 - 10:45,,22425,,22425,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,19029,,19029,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,18851,,18851,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1462800,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.2
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18851),Pluta_Ellen
+9:30 - 10:45,,,,,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,19029,22426,19029,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,18851,,18851,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2522044,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.2
+8:00 - 9:15,19464,19464,,19464,,,Commerce (23539),Pluta_Ellen
+9:30 - 10:45,,22425,,22425,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,23539,,23539,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2033520,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.2
+8:00 - 9:15,19464,19464,,19464,,,Commerce (23539),Pluta_Ellen
+9:30 - 10:45,,,,,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,23539,22426,23539,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2334173,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.175
+8:00 - 9:15,,,,,,,Commerce (18826),Menna_Larry
+9:30 - 10:45,18826,22425,18826,22425,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 2295905,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.175
+8:00 - 9:15,,,,,,,Commerce (18826),Menna_Larry
+9:30 - 10:45,18826,22425,18826,22425,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 1845649,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.175
+8:00 - 9:15,,,,,,,Commerce (18826),Menna_Larry
+9:30 - 10:45,18826,,18826,,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 1807381,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.175
+8:00 - 9:15,,,,,,,Commerce (18826),Menna_Larry
+9:30 - 10:45,18826,,18826,,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 2454260,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.175
+8:00 - 9:15,,,,,,,Commerce (18827),Menna_Larry
+9:30 - 10:45,,22425,,22425,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,18827,,18827,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 2415992,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.175
+8:00 - 9:15,,,,,,,Commerce (18827),Menna_Larry
+9:30 - 10:45,,22425,,22425,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,18827,,18827,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 1965736,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.175
+8:00 - 9:15,,,,,,,Commerce (18827),Menna_Larry
+9:30 - 10:45,,,,,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,18827,22426,18827,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 1927468,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.175
+8:00 - 9:15,,,,,,,Commerce (18827),Menna_Larry
+9:30 - 10:45,,,,,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,18827,22426,18827,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 2622680,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.175
+8:00 - 9:15,,,,,,,Commerce (18840),Schenkler_Irv
+9:30 - 10:45,,22425,,22425,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,18840,11965,18840,11965,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 2584412,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.175
+8:00 - 9:15,,,,,,,Commerce (18840),Schenkler_Irv
+9:30 - 10:45,,22425,,22425,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,18840,,18840,,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 2134156,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.175
+8:00 - 9:15,,,,,,,Commerce (18840),Schenkler_Irv
+9:30 - 10:45,,,,,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,18840,11965,18840,11965,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 2095888,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.175
+8:00 - 9:15,,,,,,,Commerce (18840),Schenkler_Irv
+9:30 - 10:45,,,,,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,18840,,18840,,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 2416069,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.167
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18829),Newell_Carol
+9:30 - 10:45,18829,22425,18829,22425,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2377801,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.167
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18829),Newell_Carol
+9:30 - 10:45,18829,22425,18829,22425,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1927545,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.167
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18829),Newell_Carol
+9:30 - 10:45,18829,,18829,,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1889277,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.167
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18829),Newell_Carol
+9:30 - 10:45,18829,,18829,,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2538623,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.167
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18839),Newell_Carol
+9:30 - 10:45,,22425,,22425,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,18839,,18839,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2500355,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.167
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18839),Newell_Carol
+9:30 - 10:45,,22425,,22425,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,18839,,18839,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2050099,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.167
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18839),Newell_Carol
+9:30 - 10:45,,,,,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,18839,22426,18839,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2011831,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.167
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18839),Newell_Carol
+9:30 - 10:45,,,,,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,18839,22426,18839,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2040198,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.15
+8:00 - 9:15,,,,,,,Commerce (23538),Berthe_Jamie
+9:30 - 10:45,19466,22425,19466,22425,19466,,Statistics (19466),Shahmaei_Ardeshir
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,23538,,23538,
+16:55 - 18:10,,,,,
+
+
+ID: 2001930,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.15
+8:00 - 9:15,,,,,,,Commerce (23538),Berthe_Jamie
+9:30 - 10:45,19466,22425,19466,22425,19466,,Statistics (19466),Shahmaei_Ardeshir
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,23538,,23538,
+16:55 - 18:10,,,,,
+
+
+ID: 1551674,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.15
+8:00 - 9:15,,,,,,,Commerce (23538),Berthe_Jamie
+9:30 - 10:45,19466,,19466,,19466,,Statistics (19466),Shahmaei_Ardeshir
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,23538,,23538,
+16:55 - 18:10,,,,,
+
+
+ID: 1513406,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.15
+8:00 - 9:15,,,,,,,Commerce (23538),Berthe_Jamie
+9:30 - 10:45,19466,,19466,,19466,,Statistics (19466),Shahmaei_Ardeshir
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,23538,,23538,
+16:55 - 18:10,,,,,
+
+
+ID: 2464182,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.15
+8:00 - 9:15,,,,,,,Commerce (23538),Berthe_Jamie
+9:30 - 10:45,,22425,,22425,,,Statistics (19470),Shahmaei_Ardeshir
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,19470,11965,19470,11965,19470
+15:30 - 16:45,,23538,,23538,
+16:55 - 18:10,,,,,
+
+
+ID: 2425914,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.15
+8:00 - 9:15,,,,,,,Commerce (23538),Berthe_Jamie
+9:30 - 10:45,,22425,,22425,,,Statistics (19470),Shahmaei_Ardeshir
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,19470,,19470,,19470
+15:30 - 16:45,,23538,,23538,
+16:55 - 18:10,,,,,
+
+
+ID: 1975658,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.15
+8:00 - 9:15,,,,,,,Commerce (23538),Berthe_Jamie
+9:30 - 10:45,,,,,,,Statistics (19470),Shahmaei_Ardeshir
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,19470,11965,19470,11965,19470
+15:30 - 16:45,,23538,,23538,
+16:55 - 18:10,,,,,
+
+
+ID: 1937390,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.15
+8:00 - 9:15,,,,,,,Commerce (23538),Berthe_Jamie
+9:30 - 10:45,,,,,,,Statistics (19470),Shahmaei_Ardeshir
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,19470,,19470,,19470
+15:30 - 16:45,,23538,,23538,
+16:55 - 18:10,,,,,
+
+
+ID: 2295829,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.125
+8:00 - 9:15,,,,,,,Commerce (18829),Newell_Carol
+9:30 - 10:45,18829,22425,18829,22425,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 2257561,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.125
+8:00 - 9:15,,,,,,,Commerce (18829),Newell_Carol
+9:30 - 10:45,18829,22425,18829,22425,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 1807305,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.125
+8:00 - 9:15,,,,,,,Commerce (18829),Newell_Carol
+9:30 - 10:45,18829,,18829,,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 1769037,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.125
+8:00 - 9:15,,,,,,,Commerce (18829),Newell_Carol
+9:30 - 10:45,18829,,18829,,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 2418383,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.125
+8:00 - 9:15,,,,,,,Commerce (18839),Newell_Carol
+9:30 - 10:45,,22425,,22425,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,18839,,18839,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 2380115,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.125
+8:00 - 9:15,,,,,,,Commerce (18839),Newell_Carol
+9:30 - 10:45,,22425,,22425,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,18839,,18839,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 1929859,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.125
+8:00 - 9:15,,,,,,,Commerce (18839),Newell_Carol
+9:30 - 10:45,,,,,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,18839,22426,18839,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 1891591,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.125
+8:00 - 9:15,,,,,,,Commerce (18839),Newell_Carol
+9:30 - 10:45,,,,,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,18839,22426,18839,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 2534291,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.1
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18826),Menna_Larry
+9:30 - 10:45,18826,22425,18826,22425,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2034155,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.1
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18826),Menna_Larry
+9:30 - 10:45,18826,22425,18826,22425,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,19029,,19029,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,,,,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2045767,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.1
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18826),Menna_Larry
+9:30 - 10:45,18826,,18826,,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1545631,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.1
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18826),Menna_Larry
+9:30 - 10:45,18826,,18826,,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,19029,22426,19029,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,,,,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2654378,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.1
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18827),Menna_Larry
+9:30 - 10:45,,22425,,22425,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,18827,,18827,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2165854,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.1
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18827),Menna_Larry
+9:30 - 10:45,,,,,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,18827,22426,18827,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2322662,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.1
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18840),Schenkler_Irv
+9:30 - 10:45,,22425,,22425,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,19029,,19029,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,18840,,18840,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1834138,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.1
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18840),Schenkler_Irv
+9:30 - 10:45,,,,,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,19029,22426,19029,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,18840,,18840,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1487260,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.1
+8:00 - 9:15,,,,,,,Commerce (18851),Pluta_Ellen
+9:30 - 10:45,19466,22425,19466,22425,19466,,Statistics (19466),Shahmaei_Ardeshir
+11:00 - 12:15,19029,,19029,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,18851,,18851,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 998736,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.1
+8:00 - 9:15,,,,,,,Commerce (18851),Pluta_Ellen
+9:30 - 10:45,19466,,19466,,19466,,Statistics (19466),Shahmaei_Ardeshir
+11:00 - 12:15,19029,22426,19029,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,18851,,18851,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2057980,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.1
+8:00 - 9:15,,,,,,,Commerce (23539),Pluta_Ellen
+9:30 - 10:45,19466,22425,19466,22425,19466,,Statistics (19466),Shahmaei_Ardeshir
+11:00 - 12:15,23539,,23539,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1569456,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.1
+8:00 - 9:15,,,,,,,Commerce (23539),Pluta_Ellen
+9:30 - 10:45,19466,,19466,,19466,,Statistics (19466),Shahmaei_Ardeshir
+11:00 - 12:15,23539,22426,23539,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2388246,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.067
+8:00 - 9:15,19465,,19465,19465,,,Commerce (23538),Berthe_Jamie
+9:30 - 10:45,,22425,,22425,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,23538,,23538,
+16:55 - 18:10,,,,,
+
+
+ID: 2349978,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.067
+8:00 - 9:15,19465,,19465,19465,,,Commerce (23538),Berthe_Jamie
+9:30 - 10:45,,22425,,22425,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,23538,,23538,
+16:55 - 18:10,,,,,
+
+
+ID: 1899722,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.067
+8:00 - 9:15,19465,,19465,19465,,,Commerce (23538),Berthe_Jamie
+9:30 - 10:45,,,,,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (11965),Valenti_Peter
+14:00 - 15:15,,11965,,11965,
+15:30 - 16:45,,23538,,23538,
+16:55 - 18:10,,,,,
+
+
+ID: 1861454,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.067
+8:00 - 9:15,19465,,19465,19465,,,Commerce (23538),Berthe_Jamie
+9:30 - 10:45,,,,,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,11966,,11966,,,MiddleEasternCultures (11966),Valenti_Peter
+14:00 - 15:15,,,,,
+15:30 - 16:45,,23538,,23538,
+16:55 - 18:10,,,,,
+
+
+ID: 2495947,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.05
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18829),Newell_Carol
+9:30 - 10:45,18829,22425,18829,22425,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1995811,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.05
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18829),Newell_Carol
+9:30 - 10:45,18829,22425,18829,22425,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,19029,,19029,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,,,,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2007423,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.05
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18829),Newell_Carol
+9:30 - 10:45,18829,,18829,,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1507287,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.05
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18829),Newell_Carol
+9:30 - 10:45,18829,,18829,,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,19029,22426,19029,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,,,,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2618501,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.05
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18839),Newell_Carol
+9:30 - 10:45,,22425,,22425,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,18839,,18839,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2129977,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4.05
+8:00 - 9:15,19464,19464,,19464,,,Commerce (18839),Newell_Carol
+9:30 - 10:45,,,,,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,18839,22426,18839,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1994075,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4
+8:00 - 9:15,,,,,,,Commerce (18826),Menna_Larry
+9:30 - 10:45,18826,22425,18826,22425,,,Statistics (19470),Shahmaei_Ardeshir
+11:00 - 12:15,19029,,19029,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,19470,,19470,,19470
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1505551,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4
+8:00 - 9:15,,,,,,,Commerce (18826),Menna_Larry
+9:30 - 10:45,18826,,18826,,,,Statistics (19470),Shahmaei_Ardeshir
+11:00 - 12:15,19029,22426,19029,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,19470,,19470,,19470
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2190314,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4
+8:00 - 9:15,,,,,,,Commerce (18827),Menna_Larry
+9:30 - 10:45,19466,22425,19466,22425,19466,,Statistics (19466),Shahmaei_Ardeshir
+11:00 - 12:15,18827,,18827,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1701790,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4
+8:00 - 9:15,,,,,,,Commerce (18827),Menna_Larry
+9:30 - 10:45,19466,,19466,,19466,,Statistics (19466),Shahmaei_Ardeshir
+11:00 - 12:15,18827,22426,18827,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1858598,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4
+8:00 - 9:15,,,,,,,Commerce (18840),Schenkler_Irv
+9:30 - 10:45,19466,22425,19466,22425,19466,,Statistics (19466),Shahmaei_Ardeshir
+11:00 - 12:15,19029,,19029,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,18840,,18840,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1370074,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4
+8:00 - 9:15,,,,,,,Commerce (18840),Schenkler_Irv
+9:30 - 10:45,19466,,19466,,19466,,Statistics (19466),Shahmaei_Ardeshir
+11:00 - 12:15,19029,22426,19029,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,18840,,18840,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1835308,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18851),Pluta_Ellen
+9:30 - 10:45,,22425,,22425,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,19029,,19029,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,18851,,18851,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1346784,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18851),Pluta_Ellen
+9:30 - 10:45,,,,,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,19029,22426,19029,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,18851,,18851,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1715068,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4
+8:00 - 9:15,,,,,,,Commerce (18851),Pluta_Ellen
+9:30 - 10:45,,22425,,22425,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,19029,,19029,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,18851,,18851,,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 1226544,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4
+8:00 - 9:15,,,,,,,Commerce (18851),Pluta_Ellen
+9:30 - 10:45,,,,,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,19029,22426,19029,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,18851,,18851,,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 2406028,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4
+8:00 - 9:15,19465,,19465,19465,,,Commerce (23539),Pluta_Ellen
+9:30 - 10:45,,22425,,22425,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,23539,,23539,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1917504,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4
+8:00 - 9:15,19465,,19465,19465,,,Commerce (23539),Pluta_Ellen
+9:30 - 10:45,,,,,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,23539,22426,23539,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2285788,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4
+8:00 - 9:15,,,,,,,Commerce (23539),Pluta_Ellen
+9:30 - 10:45,,22425,,22425,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,23539,,23539,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 1797264,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,4
+8:00 - 9:15,,,,,,,Commerce (23539),Pluta_Ellen
+9:30 - 10:45,,,,,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,23539,22426,23539,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 2468124,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.975
+8:00 - 9:15,19464,19464,,19464,,,Commerce (23538),Berthe_Jamie
+9:30 - 10:45,,22425,,22425,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,23538,,23538,
+16:55 - 18:10,,,,,
+
+
+ID: 1967988,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.975
+8:00 - 9:15,19464,19464,,19464,,,Commerce (23538),Berthe_Jamie
+9:30 - 10:45,,22425,,22425,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,19029,,19029,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,,,,,
+15:30 - 16:45,,23538,,23538,
+16:55 - 18:10,,,,,
+
+
+ID: 1979600,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.975
+8:00 - 9:15,19464,19464,,19464,,,Commerce (23538),Berthe_Jamie
+9:30 - 10:45,,,,,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,23538,,23538,
+16:55 - 18:10,,,,,
+
+
+ID: 1479464,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.975
+8:00 - 9:15,19464,19464,,19464,,,Commerce (23538),Berthe_Jamie
+9:30 - 10:45,,,,,,,Statistics (19464),Giloni_Avi
+11:00 - 12:15,19029,22426,19029,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,,,,,
+15:30 - 16:45,,23538,,23538,
+16:55 - 18:10,,,,,
+
+
+ID: 1955731,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.95
+8:00 - 9:15,,,,,,,Commerce (18829),Newell_Carol
+9:30 - 10:45,18829,22425,18829,22425,,,Statistics (19470),Shahmaei_Ardeshir
+11:00 - 12:15,19029,,19029,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,19470,,19470,,19470
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1467207,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.95
+8:00 - 9:15,,,,,,,Commerce (18829),Newell_Carol
+9:30 - 10:45,18829,,18829,,,,Statistics (19470),Shahmaei_Ardeshir
+11:00 - 12:15,19029,22426,19029,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,19470,,19470,,19470
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2154437,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.95
+8:00 - 9:15,,,,,,,Commerce (18839),Newell_Carol
+9:30 - 10:45,19466,22425,19466,22425,19466,,Statistics (19466),Shahmaei_Ardeshir
+11:00 - 12:15,18839,,18839,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1665913,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.95
+8:00 - 9:15,,,,,,,Commerce (18839),Newell_Carol
+9:30 - 10:45,19466,,19466,,19466,,Statistics (19466),Shahmaei_Ardeshir
+11:00 - 12:15,18839,22426,18839,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2298035,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.9
+8:00 - 9:15,,,,,,,Commerce (18826),Menna_Larry
+9:30 - 10:45,18826,22425,18826,22425,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 1797899,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.9
+8:00 - 9:15,,,,,,,Commerce (18826),Menna_Larry
+9:30 - 10:45,18826,22425,18826,22425,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,19029,,19029,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,,,,,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 1809511,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.9
+8:00 - 9:15,,,,,,,Commerce (18826),Menna_Larry
+9:30 - 10:45,18826,,18826,,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 1309375,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.9
+8:00 - 9:15,,,,,,,Commerce (18826),Menna_Larry
+9:30 - 10:45,18826,,18826,,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,19029,22426,19029,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,,,,,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 2418122,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.9
+8:00 - 9:15,,,,,,,Commerce (18827),Menna_Larry
+9:30 - 10:45,,22425,,22425,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,18827,,18827,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 1929598,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.9
+8:00 - 9:15,,,,,,,Commerce (18827),Menna_Larry
+9:30 - 10:45,,,,,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,18827,22426,18827,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 2086406,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.9
+8:00 - 9:15,,,,,,,Commerce (18840),Schenkler_Irv
+9:30 - 10:45,,22425,,22425,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,19029,,19029,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,18840,,18840,,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 1597882,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.9
+8:00 - 9:15,,,,,,,Commerce (18840),Schenkler_Irv
+9:30 - 10:45,,,,,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,19029,22426,19029,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,18840,,18840,,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 2004060,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.875
+8:00 - 9:15,,,,,,,Commerce (23538),Berthe_Jamie
+9:30 - 10:45,19466,22425,19466,22425,19466,,Statistics (19466),Shahmaei_Ardeshir
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,23538,,23538,
+16:55 - 18:10,,,,,
+
+
+ID: 1503924,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.875
+8:00 - 9:15,,,,,,,Commerce (23538),Berthe_Jamie
+9:30 - 10:45,19466,22425,19466,22425,19466,,Statistics (19466),Shahmaei_Ardeshir
+11:00 - 12:15,19029,,19029,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,,,,,
+15:30 - 16:45,,23538,,23538,
+16:55 - 18:10,,,,,
+
+
+ID: 1515536,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.875
+8:00 - 9:15,,,,,,,Commerce (23538),Berthe_Jamie
+9:30 - 10:45,19466,,19466,,19466,,Statistics (19466),Shahmaei_Ardeshir
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,23538,,23538,
+16:55 - 18:10,,,,,
+
+
+ID: 1015400,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.875
+8:00 - 9:15,,,,,,,Commerce (23538),Berthe_Jamie
+9:30 - 10:45,19466,,19466,,19466,,Statistics (19466),Shahmaei_Ardeshir
+11:00 - 12:15,19029,22426,19029,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,,,,,
+15:30 - 16:45,,23538,,23538,
+16:55 - 18:10,,,,,
+
+
+ID: 1927908,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.875
+8:00 - 9:15,,,,,,,Commerce (23538),Berthe_Jamie
+9:30 - 10:45,,22425,,22425,,,Statistics (19470),Shahmaei_Ardeshir
+11:00 - 12:15,19029,,19029,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,19470,,19470,,19470
+15:30 - 16:45,,23538,,23538,
+16:55 - 18:10,,,,,
+
+
+ID: 1439384,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.875
+8:00 - 9:15,,,,,,,Commerce (23538),Berthe_Jamie
+9:30 - 10:45,,,,,,,Statistics (19470),Shahmaei_Ardeshir
+11:00 - 12:15,19029,22426,19029,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,19470,,19470,,19470
+15:30 - 16:45,,23538,,23538,
+16:55 - 18:10,,,,,
+
+
+ID: 2418275,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.867
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18826),Menna_Larry
+9:30 - 10:45,18826,22425,18826,22425,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1918139,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.867
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18826),Menna_Larry
+9:30 - 10:45,18826,22425,18826,22425,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,19029,,19029,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,,,,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1929751,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.867
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18826),Menna_Larry
+9:30 - 10:45,18826,,18826,,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1429615,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.867
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18826),Menna_Larry
+9:30 - 10:45,18826,,18826,,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,19029,22426,19029,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,,,,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2538362,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.867
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18827),Menna_Larry
+9:30 - 10:45,,22425,,22425,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,18827,,18827,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2049838,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.867
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18827),Menna_Larry
+9:30 - 10:45,,,,,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,18827,22426,18827,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2206646,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.867
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18840),Schenkler_Irv
+9:30 - 10:45,,22425,,22425,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,19029,,19029,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,18840,,18840,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1718122,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.867
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18840),Schenkler_Irv
+9:30 - 10:45,,,,,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,19029,22426,19029,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,18840,,18840,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2259691,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.85
+8:00 - 9:15,,,,,,,Commerce (18829),Newell_Carol
+9:30 - 10:45,18829,22425,18829,22425,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 1759555,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.85
+8:00 - 9:15,,,,,,,Commerce (18829),Newell_Carol
+9:30 - 10:45,18829,22425,18829,22425,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,19029,,19029,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,,,,,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 1771167,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.85
+8:00 - 9:15,,,,,,,Commerce (18829),Newell_Carol
+9:30 - 10:45,18829,,18829,,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 1271031,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.85
+8:00 - 9:15,,,,,,,Commerce (18829),Newell_Carol
+9:30 - 10:45,18829,,18829,,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,19029,22426,19029,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,,,,,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 2382245,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.85
+8:00 - 9:15,,,,,,,Commerce (18839),Newell_Carol
+9:30 - 10:45,,22425,,22425,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,18839,,18839,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 1893721,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.85
+8:00 - 9:15,,,,,,,Commerce (18839),Newell_Carol
+9:30 - 10:45,,,,,,,Statistics (19471),Wu_Rongning
+11:00 - 12:15,18839,22426,18839,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,19471,,19471,19471
+16:55 - 18:10,,,,,
+
+
+ID: 2379931,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.8
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18829),Newell_Carol
+9:30 - 10:45,18829,22425,18829,22425,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1879795,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.8
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18829),Newell_Carol
+9:30 - 10:45,18829,22425,18829,22425,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,19029,,19029,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,,,,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1891407,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.8
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18829),Newell_Carol
+9:30 - 10:45,18829,,18829,,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 1391271,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.8
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18829),Newell_Carol
+9:30 - 10:45,18829,,18829,,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,19029,22426,19029,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,,,,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2502485,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.8
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18839),Newell_Carol
+9:30 - 10:45,,22425,,22425,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,18839,,18839,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2013961,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.8
+8:00 - 9:15,19465,,19465,19465,,,Commerce (18839),Newell_Carol
+9:30 - 10:45,,,,,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,18839,22426,18839,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,,,,
+16:55 - 18:10,,,,,
+
+
+ID: 2352108,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.7
+8:00 - 9:15,19465,,19465,19465,,,Commerce (23538),Berthe_Jamie
+9:30 - 10:45,,22425,,22425,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,,,,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,23538,,23538,
+16:55 - 18:10,,,,,
+
+
+ID: 1851972,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.7
+8:00 - 9:15,19465,,19465,19465,,,Commerce (23538),Berthe_Jamie
+9:30 - 10:45,,22425,,22425,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,19029,,19029,,,,MicroeconCalc (22425),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,,,,,
+15:30 - 16:45,,23538,,23538,
+16:55 - 18:10,,,,,
+
+
+ID: 1863584,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.7
+8:00 - 9:15,19465,,19465,19465,,,Commerce (23538),Berthe_Jamie
+9:30 - 10:45,,,,,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,,22426,,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (12054),El-Ghobashy_Mona
+14:00 - 15:15,12054,,12054,,
+15:30 - 16:45,,23538,,23538,
+16:55 - 18:10,,,,,
+
+
+ID: 1363448,Mon,Tue,Wed,Thu,Fri,,Course,Instructor,3.7
+8:00 - 9:15,19465,,19465,19465,,,Commerce (23538),Berthe_Jamie
+9:30 - 10:45,,,,,,,Statistics (19465),Turetsky_Jason
+11:00 - 12:15,19029,22426,19029,22426,,,MicroeconCalc (22426),Denti_Tommaso
+12:30 - 13:45,,,,,,,MiddleEasternCultures (19029),El-Ghobashy_Mona
+14:00 - 15:15,,,,,
+15:30 - 16:45,,23538,,23538,
+16:55 - 18:10,,,,,
+
+
